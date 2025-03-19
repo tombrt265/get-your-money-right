@@ -28,6 +28,7 @@
     "react-scripts": "^5.0.0"
   },
   "devDependencies": {
+    "parcel": "^2.14.1",
     "prettier": "^3.5.3"
   }
 }
